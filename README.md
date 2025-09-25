@@ -15,3 +15,6 @@ nvim
   -LICENSE
   -README
   -init.lua
+  -lazy-lock.json
+  -lazyvim.json
+  -stylua.toml
