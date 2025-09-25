@@ -12,4 +12,6 @@ nvim
           - options.lua
       - plugins
           - example.lua 
-  - 
+  -LICENSE
+  -README
+  -init.lua
