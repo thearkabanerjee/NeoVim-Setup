@@ -6,5 +6,9 @@ the whole file structure looks something like this:
 nvim 
   -lua
       -config
+          -autocmds.lua
+          - keymaps.lua
+          - lazy.lua
+          - options.lua
       - plugins
   - 
