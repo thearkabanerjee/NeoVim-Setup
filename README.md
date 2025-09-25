@@ -11,4 +11,5 @@ nvim
           - lazy.lua
           - options.lua
       - plugins
+          - example.lua 
   - 
